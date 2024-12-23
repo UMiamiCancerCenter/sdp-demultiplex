@@ -6,7 +6,7 @@
     "type": "array",
     "items": {
         "type": "object",
-        "required": ["id", "samplesheet", "flowcell"],
+        "required": ["id", "samplesheet"],
         "properties": {
             "id": {
                 "type": "string",
